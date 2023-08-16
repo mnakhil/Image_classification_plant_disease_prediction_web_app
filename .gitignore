@@ -3,3 +3,4 @@
 /ssh_rsa
 /ssh_rsa.pub
 /.ipynb_checkpoints
+/env
